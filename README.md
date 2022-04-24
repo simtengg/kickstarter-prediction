@@ -1,6 +1,3 @@
-# kickstarter-prediction repository
-Mini-Project for SC1015-Introduction to Data Science and Artificial Intelligence
-
 # About
 Our team chose to analyse the variables behind the failure of Kickstarter Projects from the <a href="https://www.kaggle.com/datasets/kemical/kickstarter-projects?resource=download" target="_blank" rel="noopener noreferrer"> Kickstarter Projects Dataset (2018) </a>
 ![SC1015 Group Project](https://user-images.githubusercontent.com/98451821/164985819-7615f81d-bed0-42d6-aea3-c0cba966bd4a.png)
