@@ -31,7 +31,7 @@ The variables that affect the outcome of Kickstarter campaigns are
 - slidesgo for the slides template
 
 # Contributors
-@bc-chou : Data Extraction, Exploratory Analysis, Machine Learning Models, Slides
-@Dl0220zero : Machine Learning Models, Slides, Insights and Conclusions
-@simtengg : Insights and Conclusions, Machine Learning Models, Slides, Video Presentation
+- @bc-chou : Data Extraction, Exploratory Analysis, Machine Learning Models, Slides 
+- @Dl0220zero : Machine Learning Models, Slides, Insights and Conclusions 
+- @simtengg : Insights and Conclusions, Machine Learning Models, Slides, Video Presentation
 
